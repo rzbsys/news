@@ -1,0 +1,68 @@
+body {
+text-align: center;
+font-family: 'Noto Sans KR', sans-serif;
+
+}
+#TITLE {
+    width: 90%;
+    height:30px;
+    box-shadow: 0px 0px 8px 1px gray;
+text-align: center;
+  border: 0px;
+  border-radius: 10px;
+  background-color: #F4F4F4;
+}
+
+#TEXT {
+  font-family: 'Noto Sans KR', sans-serif;
+  text-align: center;
+  background-color: #F4F4F4;
+  width:90%;
+  height:450px;
+  box-shadow: 0px 0px 8px 1px gray;
+border-radius: 10px;
+resize: vertical;
+}
+
+#AUTHOR {
+  width: 170px;
+  height: 25px;
+  background-color: #F4F4F4;
+  border: 0px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px 1px gray;
+  text-align: center;
+}
+
+#PART {
+  margin-left: 10px;
+  width: 170px;
+  height: 25px;
+  background-color: #F4F4F4;
+  border: 0px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px 1px gray;
+  text-align: center;
+}
+
+#SUB {
+  width: 30%;
+  height: 30px;
+  border-radius: 10px;
+  border: 0px;
+  background-color: #757575;
+  color: white;
+  font-weight: 800;
+}
+
+
+#RETURN {
+  margin-left:20px; 
+  width: 30%;
+  height: 30px;
+  border-radius: 10px;
+  border: 0px;
+  background-color: #757575;
+  color: white;
+  font-weight: 800;
+}
